@@ -1,2 +1,3 @@
 # JWT
-JSON Web Token
+JSON Web Token\
+[Documents](/wiki)
