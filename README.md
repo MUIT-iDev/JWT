@@ -1,3 +1,3 @@
 # JWT
 JSON Web Token\
-[Documents](/wiki)
+[Documents](https://github.com/MUIT-iDev/JWT/wiki)
